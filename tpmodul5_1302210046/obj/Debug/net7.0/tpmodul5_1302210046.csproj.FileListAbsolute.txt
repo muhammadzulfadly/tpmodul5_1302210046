@@ -1,0 +1,15 @@
+/Users/muhammadzulfadly/Documents/GitHub/tpmodul5_1302210046/tpmodul5_1302210046/bin/Debug/net7.0/tpmodul5_1302210046
+/Users/muhammadzulfadly/Documents/GitHub/tpmodul5_1302210046/tpmodul5_1302210046/bin/Debug/net7.0/tpmodul5_1302210046.deps.json
+/Users/muhammadzulfadly/Documents/GitHub/tpmodul5_1302210046/tpmodul5_1302210046/bin/Debug/net7.0/tpmodul5_1302210046.runtimeconfig.json
+/Users/muhammadzulfadly/Documents/GitHub/tpmodul5_1302210046/tpmodul5_1302210046/bin/Debug/net7.0/tpmodul5_1302210046.dll
+/Users/muhammadzulfadly/Documents/GitHub/tpmodul5_1302210046/tpmodul5_1302210046/bin/Debug/net7.0/tpmodul5_1302210046.pdb
+/Users/muhammadzulfadly/Documents/GitHub/tpmodul5_1302210046/tpmodul5_1302210046/obj/Debug/net7.0/tpmodul5_1302210046.csproj.AssemblyReference.cache
+/Users/muhammadzulfadly/Documents/GitHub/tpmodul5_1302210046/tpmodul5_1302210046/obj/Debug/net7.0/tpmodul5_1302210046.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammadzulfadly/Documents/GitHub/tpmodul5_1302210046/tpmodul5_1302210046/obj/Debug/net7.0/tpmodul5_1302210046.AssemblyInfoInputs.cache
+/Users/muhammadzulfadly/Documents/GitHub/tpmodul5_1302210046/tpmodul5_1302210046/obj/Debug/net7.0/tpmodul5_1302210046.AssemblyInfo.cs
+/Users/muhammadzulfadly/Documents/GitHub/tpmodul5_1302210046/tpmodul5_1302210046/obj/Debug/net7.0/tpmodul5_1302210046.csproj.CoreCompileInputs.cache
+/Users/muhammadzulfadly/Documents/GitHub/tpmodul5_1302210046/tpmodul5_1302210046/obj/Debug/net7.0/tpmodul5_1302210046.dll
+/Users/muhammadzulfadly/Documents/GitHub/tpmodul5_1302210046/tpmodul5_1302210046/obj/Debug/net7.0/refint/tpmodul5_1302210046.dll
+/Users/muhammadzulfadly/Documents/GitHub/tpmodul5_1302210046/tpmodul5_1302210046/obj/Debug/net7.0/tpmodul5_1302210046.pdb
+/Users/muhammadzulfadly/Documents/GitHub/tpmodul5_1302210046/tpmodul5_1302210046/obj/Debug/net7.0/tpmodul5_1302210046.genruntimeconfig.cache
+/Users/muhammadzulfadly/Documents/GitHub/tpmodul5_1302210046/tpmodul5_1302210046/obj/Debug/net7.0/ref/tpmodul5_1302210046.dll
